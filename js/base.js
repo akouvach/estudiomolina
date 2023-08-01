@@ -101,3 +101,20 @@ function buscar(){
 
 document.getElementById("form_buscar").addEventListener("submit", buscar, false);
 
+function cargar(nro){
+    console.log("cargar", nro);
+    switch (nro){
+        case 1:
+            nosotros();
+            break;
+        case 2:
+            servicios(); 
+            break;
+        case 3:
+            contacto(); 
+            break;
+        default:
+            noticias();
+    }
+}
+
