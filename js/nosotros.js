@@ -33,7 +33,7 @@ function nosotros(){
                 </div>
             </div>
         </div>`;
-        destino.innerHTML=rta;
+        destino.innerHTML=rta; 
     },1000);   
 
 }

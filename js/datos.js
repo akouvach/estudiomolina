@@ -21,6 +21,13 @@ let articulos = [
         "contenido":"Juicios laborales: hoteleros y gastronómicos porteños se suman a un reclamo que ya llegó a la Corte Suprema",
         "fecha":"31/8/2022",
         "fuente":"https://www.clarin.com/economia/juicios-laborales-hoteleros-gastronomicos-portenos-suman-reclamo-llego-corte-suprema_0_FVe5QMFkOK.html"
+    },
+    {
+        "titulo":"pepe",
+        "tema":"laboral",
+        "contenido":"Juicios laborales: hoteleros y gastronómicos porteños se suman a un reclamo que ya llegó a la Corte Suprema",
+        "fecha":"31/8/2022",
+        "fuente":"https://www.clarin.com/economia/juicios-laborales-hoteleros-gastronomicos-portenos-suman-reclamo-llego-corte-suprema_0_FVe5QMFkOK.html"
     }
 
 ];
