@@ -1,0 +1,8 @@
+.miblack {
+  color: #000000; /* Replace this with your desired color code */
+}
+
+.mihead {
+    background-size: cover;
+    min-height: 100vh;
+}
