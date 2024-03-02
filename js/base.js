@@ -1,26 +1,3 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyAsyAKhtMIW1imsObJqfakdouqjzkErvPw",
-  authDomain: "estudiomolina.firebaseapp.com",
-  projectId: "estudiomolina",
-  storageBucket: "estudiomolina.appspot.com",
-  messagingSenderId: "379957037205",
-  appId: "1:379957037205:web:988fdcdd83d39b260c339c",
-  measurementId: "G-E6PRSMMS48"
-};
-
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-
-
 console.log(articulos);
 console.log(temas);
 
